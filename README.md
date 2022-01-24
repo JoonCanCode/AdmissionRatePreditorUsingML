@@ -1,2 +1,1 @@
-# Sussy-machine
-Sussy Sussy Machine Learning
+This is our first ML project.
